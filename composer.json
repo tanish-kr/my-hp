@@ -1,0 +1,15 @@
+{
+    "name": "nishikioritatsunori/fp-hp",
+    "authors": [
+        {
+            "name": "tatsu",
+            "email": "tora.1986.tatsu@gmail.com"
+        }
+    ],
+    "require": {
+      "smarty/smarty" : "3.1.*"
+    },
+    "autoload" : {
+      "psr-4" : {"FP-HP\\":"src/"}
+    }
+}
