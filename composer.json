@@ -10,6 +10,6 @@
       "smarty/smarty" : "3.1.*"
     },
     "autoload" : {
-      "psr-4" : {"FP-HP\\":"src/"}
+      "psr-0" : {"create\\":"src/"}
     }
 }
